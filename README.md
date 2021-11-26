@@ -15,8 +15,8 @@ Chat Application using SpringBoot - WebSocket
 https://github.com/RachelGultom2000/HELLO-Apps---Backend-Test-Rakamin.git
 ```
 
-**2. Build dan Run Aplikasi Menggunakan Maven** <br>
-Supaya lebih mudah,cukup jalankan seperti ini pada terminal : 
+**2. Build dan Run Menggunakan Maven** <br>
+Supaya lebih mudah,cukup jalankan seperti ini pada terminal
 ```bash
 mvn spring-boot:run
 ```
